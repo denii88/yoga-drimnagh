@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
 
 body {
+    margin-bottom:50px;
     font-family:Arimo, sans-serif;
 }
 #home-photo {
@@ -22,7 +23,7 @@ body {
 }
 #logo {
     float:left;
-    color:#ffffff;
+    color:#3a3a3a;
     font-size:500%;
 }
 #menu li {
@@ -45,8 +46,7 @@ body {
 footer {
     
     background-color: slateblue;
-    
-    
+ 
 }
 .social-media {
     text-align:center;
