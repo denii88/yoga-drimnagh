@@ -8,3 +8,10 @@ body {
     width:100%;
     height:750px;
 }
+#logo {
+    float:left;
+}
+#menu li {
+    float:right;
+    list-style-type:none;
+}
