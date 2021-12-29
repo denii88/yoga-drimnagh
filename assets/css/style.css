@@ -73,11 +73,14 @@ footer {
 }
 
 /*signup.html*/
+/*picute wont load*/
 
-.form {
-    background-image: url('..images/woman-sunset.jpg') no-repeat center center;
-    clear:both;
+#form {
+    background:url('..images/home-photo.jpg') no-repeat center center;
+    clear:left;
     background-size: cover;
     background-position: center;
     height:700px;
 }
+
+
