@@ -74,15 +74,4 @@ footer {
 
 /*signup.html*/
 
-.form {
-    background:url('..images/woman-sunset.jpg');
-    height:800px;
-    background-position: center;
-    background-size:cover;
-}
-.signup-form {
-    margin:100px 20% 0 0;
-    position:absolute;
-    padding:20px;
-    
-}
+
