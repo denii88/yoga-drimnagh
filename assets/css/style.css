@@ -40,18 +40,12 @@ body {
 #yoga-intro {
     text-align:center;
 }
-#left-list {
-    text-align:left;
-}
-#middle-list {
-    text-align:center;
-}
-#right-list {
-    text-align:right;
-}
+
+
+
 footer {
     
-    background-color: #000000;
+    background-color:darkgrey;
     height:100px;
  
 }
