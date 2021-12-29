@@ -67,5 +67,7 @@ footer {
 /*signup.html*/
 
 .form {
-    background-image: url('..images/home-photo.jpeg') no-repeat center center;
+    background: url('../images/woman-sunset.jpg') no-repeat center center;
+    width:100%;
+    height:800px;
 }
