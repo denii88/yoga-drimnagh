@@ -23,7 +23,7 @@ header {
 #menu {
     float:right;
     font-size:20px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     margin-right:20px;
     border-bottom: 0;
     box-shadow:none;
@@ -40,7 +40,7 @@ header {
 #menu li {
     float:right;
     list-style-type:none;
-    margin-right: 20px;
+    margin-right: 10px;
     color:#000000;
     
     
@@ -54,7 +54,7 @@ header {
 
 footer {
     
-    background-color:darkgrey;
+    background-color:darkslategray;
     height:100px;
  
 }
