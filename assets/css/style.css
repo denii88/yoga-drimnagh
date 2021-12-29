@@ -11,8 +11,8 @@ body {
     width:150%;
     height:800px;
     background-size: cover;
-    
-    
+    clear:left;
+       
 }
 #menu {
     float:right;
