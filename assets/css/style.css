@@ -71,6 +71,10 @@ footer {
     color:white;
     
 }
+iframe {
+    height:300;
+    width:100%;
+}
 
 /*signup.html*/
 /*picute wont load*/
