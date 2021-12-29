@@ -63,3 +63,9 @@ footer {
     font-size:250%;
     color:white;
 }
+
+/*signup.html*/
+
+#form {
+    background: url('..images/signup-photo.jpeg') no-repeat center center;
+}
