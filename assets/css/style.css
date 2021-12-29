@@ -86,8 +86,11 @@ iframe {
     background:url('../images/yoga-floor.jpg');
     clear:left;
     background-size:cover;
-    height:700px;
+    height:800px;
     background-position:center;
-    color:darkgrey;
+    color:white;
+}
+.form-title {
+    color:#000000;
 }
 
