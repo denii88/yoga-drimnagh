@@ -75,4 +75,11 @@ footer {
 /*signup.html*/
 /*picute wont load*/
 
+.form {
+    background:url('../images/woman-sunset.jpg');
+    clear:left;
+    background-size:cover;
+    height:700px;
+    background-position:center;
+}
 
