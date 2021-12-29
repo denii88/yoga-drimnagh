@@ -74,4 +74,10 @@ footer {
 
 /*signup.html*/
 
-
+.form {
+    background-image: url('..images/woman-sunset.jpg') no-repeat center center;
+    clear:both;
+    background-size: cover;
+    background-position: center;
+    height:700px;
+}
