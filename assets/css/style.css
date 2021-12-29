@@ -19,6 +19,8 @@ body {
     color:white;
     letter-spacing: 2px;
     margin-right:20px;
+    text-decoration: none;
+    
     
 }
 #menu a:hover {
@@ -33,6 +35,7 @@ body {
     float:right;
     list-style-type:none;
     margin-right: 20px;
+    text-decoration: none;
 }
 
 #yoga-intro {
