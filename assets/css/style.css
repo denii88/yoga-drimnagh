@@ -19,7 +19,7 @@ header {
     background: url('../images/yoga-classs.jpg') no-repeat center center;
     width:100%;
     height:800px;
-    background-size: cover;
+    
     clear:left;
        
 }
@@ -150,7 +150,7 @@ iframe {
         font-size: 150%;
     }
     #home-photo {
-        
+        width:100%;
         background-size: cover;
     }
 }
