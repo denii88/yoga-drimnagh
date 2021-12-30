@@ -15,15 +15,19 @@ header {
 }
 #home-photo {
     background: url('../images/yoga-classs.jpg') no-repeat center center;
-    width:98%;
+    width:100%;
     height:800px;
     background-size: cover;
     clear:left;
        
 }
 
-#home-page, .form {
-    margin:0 0 0 10px;
+#home-page {
+    margin:0 0 0 12px;
+    
+}
+.form {
+    margin:0 0 0 14px;
 }
 #menu {
     float:right;
