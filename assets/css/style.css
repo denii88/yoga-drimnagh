@@ -144,6 +144,10 @@ iframe {
 @media (max-width:576px) {
     .first-video, .second-video, .map {
         width:100%;
+        
+    }
+    #logo {
+        font-size: 150%;
     }
 }
 
