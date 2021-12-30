@@ -1,6 +1,7 @@
  /*index.html*/
 
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body {
     margin-bottom:50px;
@@ -36,6 +37,8 @@ header {
     color:#000000;
     font-size:400%;
     text-decoration: none;
+    font-family: Lobster;
+    text-decoration:underline;
 }
 #menu li {
     float:right;
@@ -92,6 +95,7 @@ iframe {
 
 .form {
     background:url('../images/yoga-floor.jpg');
+    opacity:1;
     clear:left;
     background-size:cover;
     height:800px;
@@ -115,7 +119,7 @@ iframe {
 
 .first-video {
         width:75%;
-        ;
+        
         
 }
 .second-video {
