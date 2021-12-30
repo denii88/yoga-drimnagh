@@ -48,5 +48,12 @@
 11.As a site owner, I want people to know about the offers and any changes
 
 ## Wireframes
-[Balsamiq wireframe home](docs/balsamiq-wireframe-one)
+[Balsamiq wireframe home](docs/balsamiq-wireframe-one.jpg)
+
+[Balsamiq wireframe training](docs/balsamiq-wireframe-two.jpg)
+
+[Balsamiq wireframe signup](docs/balsamiq-wireframe-three.jpg)
+
+
+
 
