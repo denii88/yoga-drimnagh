@@ -136,13 +136,19 @@ iframe {
 /*for the smaller screens so that videos are showing in full screen*/
 
 @media (max-width:576px) {
-    .first-video, .second-video {
+    .first-video, .second-video, .map {
         width:100%;
     }
 }
 
 @media (max-width:768px) {
-    .first-video, .second-video {
+    .first-video, .second-video, .map {
+        width:100%;
+    }
+}
+
+@media (max-width:1200px) {
+    .first-video, .second-video, .map {
         width:100%;
     }
 }
