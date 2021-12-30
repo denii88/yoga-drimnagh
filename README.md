@@ -168,5 +168,10 @@
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 
+## Acknowledgements
+- To my mentor Mo Shami, no matter I didn't give enough time for the project
+- To people on slack who were of great and quick help when needed
+- To my girlfriend that understands I have less time for her
+- To myself
 
 
