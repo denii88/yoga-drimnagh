@@ -15,11 +15,15 @@ header {
 }
 #home-photo {
     background: url('../images/yoga-classs.jpg') no-repeat center center;
-    width:100%;
+    width:98%;
     height:800px;
     background-size: cover;
     clear:left;
        
+}
+
+#home-page, .form {
+    margin:0 0 0 10px;
 }
 #menu {
     float:right;
@@ -103,6 +107,7 @@ iframe {
     height:800px;
     background-position:center;
     color:white;
+    width:98%;
 }
 .form-title {
     color:#000000;
