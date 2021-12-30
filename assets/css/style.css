@@ -114,15 +114,11 @@ iframe {
 /*training*/
 
 .first-video {
-
-height: 500px;
-width: 50%;
-margin-top: 100px;
-margin-left: 250px;
-
+        width:75%;
+        ;
+        
 }
-
 .second-video {
-    width:50%;
-    height:500px;
+    width:75%;
+     
 }
