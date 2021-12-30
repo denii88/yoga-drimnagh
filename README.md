@@ -67,6 +67,19 @@
 
 ![Screenshot of logo with home photo](docs/homepage-image.jpg)
 
+### Short benefits of Yoga and why us 
+
+- Included font awesome icons to make it more appealing
+
+![Screenshot of benefits with icons](docs/benefits.jpg)
+
+### Contact number with clear map and address of location
+
+![Screenshot of map and contact number](docs/map.jpg)
+
+### Footer
+
+![Screenshot of the footer](docs/footer.jpg)
 
 
 
