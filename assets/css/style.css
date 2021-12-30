@@ -113,3 +113,15 @@ iframe {
 
 /*training*/
 
+.first-video {
+
+height: 100%;
+left: 25%;
+top: 25%;
+width: 100%;
+
+}
+
+.second-video {
+    width:50%;
+}
