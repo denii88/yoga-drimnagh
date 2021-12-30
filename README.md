@@ -143,10 +143,30 @@
   - I took the code to the Lighhouse feature in Google Chrome tools and the result is following:
 
   ![Screenshot of performance result](docs/lighthouse.jpg)
-  
 
+### Bugs 
+- There was an issue with loading youtube videos, instead of watch, it supopsed to be set on embed. After I figured out that, there was one catch to change "=" sign and one letter to simply "/".
+- Signup photo wasn't loading, and the only problem that I could figure out that was that I renamed photo in images folder. It doesn't sound right, but when I deleted and uploaded photo again it worked.
 
+## Deployment
+### The website was deployed using GitHub Pages by following these steps:
+1. Go to the GItHub repository and navigate to settings bar
+2. Select the "pages" from the left menu
+3. Select the source Branch: master
+4. after refreshing the webpage, you will see a ribbon on top that says:"Your site is published at https://denii88.github.io/yoga-drimnagh/
 
+### You can use the fork too:
+1. Go to GitHub repository
+2. Click on "fork" on the right hand side
+
+## Credits 
+### Photos
+- Homepage and signup page photos are from [Pexels](https://www.pexels.com/)
+- Two videos included are from [YouTube](https://youtube.com/)
+### Content is reading form internet and made in my own words
+- [Wikipedia](https://www.wikipedia.org/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 
 
