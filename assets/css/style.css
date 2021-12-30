@@ -128,3 +128,16 @@ iframe {
     width:75%;
      
 }
+/*for the smaller screens so that videos are showing in full screen*/
+
+@media (max-width:576px) {
+    .first-video, .second-video {
+        width:100%;
+    }
+}
+
+@media (max-width:768px) {
+    .first-video, .second-video {
+        width:100%;
+    }
+}
