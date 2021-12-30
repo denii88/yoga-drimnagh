@@ -125,6 +125,27 @@
 - Contact number ans the map are interactive 
 - Footer links are taking user to the new tab
 - Form is working and all field must be entered before submitting
+- Project is working on different sizes of devices
+- Tested on Iphone12, Samsung Galaxy20 and Samsung Galaxy tablet
+
+### Validator Testing
+  
+  - HTML- Passed the official [W3C validator](https://validator.w3.org/)
+  - CSS- Passed the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+
+  ### Browsers supported
+
+  - Tested on Google Chrome
+  - Mozilla Firefox 
+  - Safari
+
+  ### Performance
+  - I took the code to the Lighhouse feature in Google Chrome tools and the result is following:
+
+  ![Screenshot of performance result](docs/lighthouse.jpg)
+  
+
+
 
 
 
