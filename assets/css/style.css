@@ -149,6 +149,10 @@ iframe {
     #logo {
         font-size: 150%;
     }
+    #home-photo {
+        
+        background-size: cover;
+    }
 }
 
 @media (max-width:768px) {
