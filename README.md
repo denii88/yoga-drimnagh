@@ -92,6 +92,12 @@
 
 ![Screenshot of customer reviews](docs/customer-reviews.jpg)
 
+### Form with subscribe button 
+- All entry fields are required, except the subscribe button
+- If left empty the browser will show the message "Please fil in this field"
+
+![Screenshot of the form](docs/form.jpg)
+
 
 
 
