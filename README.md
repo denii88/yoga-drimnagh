@@ -54,6 +54,22 @@
 
 [Balsamiq wireframe signup](docs/balsamiq-wireframe-three.jpg)
 
+## Features
+
+### Navigation bar
+- On all three sites, Home, Training and Sign Up
+- Responsive and easy to navigate
+
+### Logo and home image
+- Logo when clicked on any page, is taking user back to the home page
+- Decorated and in style with footer
+- Home page photo showing one of the classes with mixed group of people, from 20 - 70 years of age
+
+![Screenshot of logo with home photo](docs/homepage-image.jpg)
+
+
+
+
 
 
 
