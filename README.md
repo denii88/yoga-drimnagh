@@ -73,14 +73,24 @@
 
 ![Screenshot of benefits with icons](docs/benefits.jpg)
 
-### Contact number with clear map and address of location
+### Contact number with clear map and address of location, map is interactive and clickable same as contact number
 
 ![Screenshot of map and contact number](docs/map.jpg)
 
 ### Footer
+- When clicked on any of the icons, the site will open in a new tab
 
 ![Screenshot of the footer](docs/footer.jpg)
 
+### Training page with videos
+
+![Screenshot of videos section](docs/videos.jpg)
+
+### Customer reviews
+- These are actual customer reviews for the gym that yoga is renting space
+- I am in good relations with the owner so I asked could I use those reviews just for this purpose, to make it look more attractive for new customers
+
+![Screenshot of customer reviews](docs/customer-reviews.jpg)
 
 
 
