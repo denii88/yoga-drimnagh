@@ -98,6 +98,33 @@
 
 ![Screenshot of the form](docs/form.jpg)
 
+## Features for future
+- Times, prices, video testimonials
+
+## Technologies used
+
+### Languages
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- Gitpod
+- Pexels
+- Google Fonts
+- Font Awesome
+- Balsamiq
+- Validators for HTML and CSS
+- Lighthouse
+- Dev tools
+- Stack Overflow
+
+## Validation and Testing
+- The website itself is working properly. No errors in loading of any pages, gome page and logo works, videos are working and have commands.
+- Contact number ans the map are interactive 
+- Footer links are taking user to the new tab
+- Form is working and all field must be entered before submitting
 
 
 
