@@ -30,3 +30,23 @@
 
 4.As a first time user, I want to see the reviews
 
+### For returning users
+
+5.As a returning user, I want to know leave a comment or a review
+
+6.As a returning user, I want to know is there any offers
+
+7.As a returning user, I want to get know the trainers and teachers
+
+8.As a returning user, I want to follow you on social media
+
+### For the owners
+
+9.As a site owner, I want to communicate with my customers
+
+10.As a site owner, I want to know what are good and bad comments 
+
+11.As a site owner, I want people to know about the offers and any changes
+
+
+
