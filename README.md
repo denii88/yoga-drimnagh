@@ -1,5 +1,6 @@
 # Yoga Drimnagh
 
+![Screenshot from "Am I Responsive"](docs/responsivness.jpg)
 ## User goals
 - Find close studio to the people from Drimnagh and around,there are no studios fo practicing Yoga
 - On line classes available
