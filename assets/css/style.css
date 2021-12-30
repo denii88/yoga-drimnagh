@@ -115,13 +115,14 @@ iframe {
 
 .first-video {
 
-height: 100%;
-left: 25%;
-top: 25%;
-width: 100%;
+height: 500px;
+width: 50%;
+margin-top: 100px;
+margin-left: 250px;
 
 }
 
 .second-video {
     width:50%;
+    height:500px;
 }
