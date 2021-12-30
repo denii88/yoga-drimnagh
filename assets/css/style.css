@@ -28,6 +28,8 @@ header {
     margin-right:20px;
     border-bottom: 0;
     box-shadow:none;
+    color: #000000;
+    text-decoration: none;
     
     
 }
@@ -106,13 +108,13 @@ iframe {
     color:#000000;
 }
 
-#user-details {
-    background-color: #000000;
-}
-
 .signup {
-    color:white;
-    background-color: black;
+    color:black;
+    background: white;
+    
+}
+.signup-form {
+    max-width: 100px;
 }
 
 /*training*/
