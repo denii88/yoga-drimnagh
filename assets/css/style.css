@@ -1,4 +1,5 @@
  /*index.html*/
+/*Imported google fonts to get better ux*/
 
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
@@ -13,6 +14,7 @@ header {
     box-shadow:none;
 
 }
+/*I took photo from yoga class so it looks like its our photos up*/
 #home-photo {
     background: url('../images/yoga-classs.jpg') no-repeat center center;
     width:100%;
@@ -41,7 +43,7 @@ header {
     
     
 }
-
+/*Google Fonts*/
 #logo {
     float:left;
     color:#000000;
