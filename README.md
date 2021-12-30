@@ -1,6 +1,7 @@
 # Yoga Drimnagh
 
 ![Screenshot from "Am I Responsive"](docs/responsivness.jpg)
+[Live webpage](https://denii88.github.io/yoga-drimnagh/)
 ## User goals
 - Find close studio to the people from Drimnagh and around,there are no studios fo practicing Yoga
 - On line classes available
@@ -16,8 +17,6 @@
 - People which are already customers of the gym
 - Groups of older people who wants to be active
 - On line classes so people can do it form their homes
-
-[Live webpage](https://denii88.github.io/yoga-drimnagh/)
 
 ## User Stories
 ### For the first time users
