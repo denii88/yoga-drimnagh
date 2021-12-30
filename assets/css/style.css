@@ -46,9 +46,8 @@ header {
 /*Google Fonts*/
 #logo {
     float:left;
-    color:#000000;
+    color:darkslategray;
     font-size:400%;
-    text-decoration: none;
     font-family: Lobster;
     text-decoration:underline;
 }
